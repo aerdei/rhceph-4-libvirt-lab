@@ -1,0 +1,4 @@
+*.iso
+*.swp
+*.qcow2
+ceph-infra/disks/*
